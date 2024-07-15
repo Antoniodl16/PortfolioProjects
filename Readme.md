@@ -1,4 +1,4 @@
-```markdown
+
 # Healthcare LOS Analysis
 
 ## Analysis Goals
