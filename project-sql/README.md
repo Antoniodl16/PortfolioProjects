@@ -6,7 +6,7 @@ This project focuses on performing customer behavior analysis using SQL. The obj
 
 ## Dataset
 
-The dataset comprises 16 related tables, providing comprehensive information about:
+The dataset includes 16 related tables, providing comprehensive information about:
 - **Customers**: Name, Address, etc.
 - **Business operations**: Staff, Rentals, etc.
 - **Inventory**: Films, Categories, etc.
